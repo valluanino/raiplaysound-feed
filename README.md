@@ -9,7 +9,7 @@ Gli URL nei feed vengono risolti fino alla CDN finale Rai, evitando i problemi c
 
 ## Podcast
 
-| Podcast | Feed RSS |
+| Programma | Feed RSS |
 |----------|----------|
 | America7 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/america7.xml |
 | Detectives - Casi risolti e irrisolti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
@@ -55,6 +55,6 @@ oppure per un audiolibro:
 
 Al primo run della Action si aggiorna automaticamente anche la tabella nel README con il nuovo feed in ordine alfabetico.
 
-## Aggiornamento orario
+## Aggiornamento ogni 2 ore
 
-I feed vengono aggiornati automaticamente tramite GitHub Actions ogni ora e viene controllata la validità degli URL vecchi ogni 14 giorni.
+I feed vengono aggiornati automaticamente tramite GitHub Actions ogni 2 ore e viene controllata la validità degli URL vecchi ogni 14 giorni.
