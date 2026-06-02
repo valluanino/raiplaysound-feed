@@ -5223,5 +5223,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut_prima_pagina/29593919_1800.mp3",
     "date": "2026-06-02T05:32:00.000Z",
     "resolvedAt": 1780379229161
+  },
+  "ContentItem-2c1645d4-2e6f-4704-9272-9e68efd03610": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut_prima_pagina/29594138_1800.mp3",
+    "date": "2026-06-02T06:05:00.000Z",
+    "resolvedAt": 1780381255202
   }
 }
