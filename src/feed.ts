@@ -106,9 +106,9 @@ async function buildFeed(program: string, forceRefresh: boolean = false) {
           resolvedAt: now
         }
       }
-    } catch (err) {
-      error(program, (err as Error).message)
-    }
+    } } catch (err) {
+  error(program, `${ep.title} / ${ep.episode_title}: ${(err as Error).message}`)
+}
 
     currentEps.add(id)
   }
