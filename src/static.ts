@@ -14,6 +14,14 @@ const podcasts = [
     title: 'Zapping',
     path: 'programmi/zapping'
   },
+    {
+    title: 'GR1',
+    path: 'programmi/gr1'
+  },
+    {
+    title: 'GR Friuli Venezia Giulia',
+    path: 'programmi/grfriuliveneziagiulia'
+  },
   {
     title: "Radio anch'io",
     path: 'programmi/radioanchio'
