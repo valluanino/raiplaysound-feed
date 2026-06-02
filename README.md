@@ -19,6 +19,7 @@ Questo progetto è una evoluzione di un mio [precedente repository](https://gith
 | GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
 | GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
+| Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Prima Pagina | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
 | Radio anch'io | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
 | Radio3 Mondo | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
