@@ -166,12 +166,6 @@ const readme = `# RaiPlay Sound Feed
 
 Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono generati automaticamente tramite GitHub Actions e GitHub Pages. In modo da potersi abbonare/ascoltare su qualsiasi client podcast  e non esclusivamente tramite l’app RaiPlaySound. 
 
-Questo progetto è una evoluzione di un mio [precedente repository](https://github.com/giuliomagnifico/raiplay-feed),  il quale aveva il problema di non risolvere correttamente la redirect ed era quindi necessario scaricare il file prima di riprodurlo certi podcast. Adesso gli URLs vengono risolti fino alla CDN finale Rai, evitando i problemi causati dai redirect \`relinkerServlet.htm\` con alcuni client podcast (i.e. [PocketCasts](https://pocketcasts.com/)).
-
-
-> [!TIP]
-> È una versione modificata del repository [frammenti/raiplaysoundrss](https://github.com/frammenti/raiplaysoundrss) costruita per poter funzionare usando solo su GitHub, in modo da essere indipendente da un server esterno. 
-
 
 ## Podcast
 
@@ -213,6 +207,15 @@ oppure per un audiolibro:
 ## Aggiornamento ogni ora
 
 I feed vengono aggiornati automaticamente tramite GitHub Actions ogni ora e viene controllata la validità degli URL vecchi ogni 14 giorni.
+
+## INFO
+
+Questo progetto è una evoluzione di un mio [precedente repository](https://github.com/giuliomagnifico/raiplay-feed),  il quale aveva il problema di non risolvere correttamente la redirect ed era quindi necessario scaricare il file prima di riprodurlo certi podcast. Adesso gli URLs vengono risolti fino alla CDN finale Rai, evitando i problemi causati dai redirect \`relinkerServlet.htm\` con alcuni client podcast (i.e. [PocketCasts](https://pocketcasts.com/)).
+
+
+> [!TIP]
+> È una versione modificata del repository [frammenti/raiplaysoundrss](https://github.com/frammenti/raiplaysoundrss) costruita per poter funzionare usando solo su GitHub, in modo da essere indipendente da un server esterno. 
+
 `
 await fs.writeFile('README.md', readme)
 
