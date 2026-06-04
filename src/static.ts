@@ -74,6 +74,10 @@ const podcasts = [
     title: 'Number Stations - Le radio delle spie',
     path: 'programmi/numberstations-leradiodellespie'
   },
+    {
+    title: 'Pillole di Eta Beta',
+    path: 'programmi/pilloledietabeta'
+  },
    {
     title: 'Giro del Mondo in una Coppa',
     path: 'programmi/girodelmondoinunacoppa'
