@@ -16,6 +16,7 @@ Questo progetto è una evoluzione di un mio [precedente repository](https://gith
 | America7 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/america7.xml |
 | Detectives - Casi risolti e irrisolti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
 | Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
+| Giro del Mondo in una Coppa | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
 | GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
 | GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
