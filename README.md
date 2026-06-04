@@ -16,6 +16,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
 | Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Number Stations - Le radio delle spie | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
+| Pillole di Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Prima Pagina | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
 | Radio anch'io | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
 | Radio3 Mondo | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
