@@ -3,7 +3,7 @@ import path from 'path'
 import { buildFeed } from './feed.js'
 import { initCache } from './cache.js'
 
-const BASE_URL = 'https://giuliomagnifico.github.io/raiplaysound-feed'
+const BASE_URL = 'https://valluanino.github.io/raiplaysound-feed'
 
 const podcasts = [
   {
@@ -19,8 +19,8 @@ const podcasts = [
     path: 'programmi/gr1'
   },
     {
-    title: 'GR Friuli Venezia Giulia',
-    path: 'programmi/grfriuliveneziagiulia'
+    title: 'GR Puglia',
+    path: 'programmi/grpuglia'
   },
   {
     title: "Radio anch'io",
@@ -104,6 +104,10 @@ const audiobooks = [
     {
     title: 'Ventimila leghe sotto i mari',
     path: 'audiolibri/ventimilaleghesottoimari'
+  },
+    {
+    title: 'Mansfield Park',
+    path: 'audiolibri/mansfieldpark'
   }
 ]
 
