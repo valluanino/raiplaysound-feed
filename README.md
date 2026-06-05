@@ -8,24 +8,19 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Programma | Feed RSS |
 |----------|----------|
 | America7 | https://valluanino.github.io/raiplaysound-feed/rss/programmi/america7.xml |
-| Detectives - Casi risolti e irrisolti | https://valluanino.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
+| Atacama, la terra dei telescopi | https://valluanino.github.io/raiplaysound-feed/rss/programmi/atacamalaterradeitelescopi.xml |
 | Eta Beta | https://valluanino.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
-| Giro del Mondo in una Coppa | https://valluanino.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
 | GR Puglia | https://valluanino.github.io/raiplaysound-feed/rss/programmi/grpuglia.xml |
 | GR1 | https://valluanino.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
-| L'edicola di Radio1 | https://valluanino.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
 | Lillo e Greg 610 | https://valluanino.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Number Stations - Le radio delle spie | https://valluanino.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
 | Pillole di Eta Beta | https://valluanino.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
 | Prima Pagina | https://valluanino.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
-| Radio anch'io | https://valluanino.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
 | Radio3 Mondo | https://valluanino.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
 | Radio3 Scienza | https://valluanino.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
 | Revolution | https://valluanino.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
-| Tra poco in edicola | https://valluanino.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
 | Tutta la città ne parla | https://valluanino.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
 | Un giorno da pecora | https://valluanino.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
-| Zapping | https://valluanino.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
 
@@ -33,6 +28,11 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 |------------|----------|
 | Arancia meccanica | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
 | Cuore di tenebra | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
+| Flush. Una biografia | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/flushunabiografia.xml |
+| Frankenstein | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/frankenstein.xml |
+| Gli indifferenti | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/gliindifferenti.xml |
+| I promessi sposi | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/ipromessisposi.xml |
+| I tre moschettieri | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/itremoschettieri.xml |
 | Il grande Gatsby | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
 | Mansfield Park | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/mansfieldpark.xml |
 | Racconti di Italo Calvino | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
