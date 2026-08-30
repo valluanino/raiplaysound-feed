@@ -2998,5 +2998,10 @@
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/Audiocut_Radio3_Mondo/30218411_1800.mp3",
     "date": "2026-08-29T05:27:00.000Z",
     "resolvedAt": 1788000047455
+  },
+  "ContentItem-04651bd5-3389-44c6-888c-3f7a7876e0e7": {
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/Audiocut_Radio3_Mondo/30224425_1800.mp3",
+    "date": "2026-08-30T05:27:00.000Z",
+    "resolvedAt": 1788070681575
   }
 }
