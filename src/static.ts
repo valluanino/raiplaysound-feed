@@ -108,6 +108,10 @@ const audiobooks = [
   {
     title: 'Flush. Una biografia',
     path: 'audiolibri/flushunabiografia'
+  },
+  {
+    title: 'Pian della Tortilla',
+    path: 'audiolibri/piandellatortilla'
   }
 ]
 
