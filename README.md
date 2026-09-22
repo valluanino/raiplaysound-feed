@@ -35,6 +35,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | I tre moschettieri | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/itremoschettieri.xml |
 | Il grande Gatsby | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
 | Mansfield Park | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/mansfieldpark.xml |
+| Pian della Tortilla | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/piandellatortilla.xml |
 | Racconti di Italo Calvino | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
 | Ventimila leghe sotto i mari | https://valluanino.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
 
