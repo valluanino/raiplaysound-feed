@@ -127,7 +127,7 @@
   "ContentItem-6dbddcee-1cec-463a-9410-c617c513adb5": {
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30459129.mp3",
     "date": "2026-09-30T06:09:00.000Z",
-    "resolvedAt": 1790749481123
+    "resolvedAt": 1791961287108
   },
   "ContentItem-ab7a9980-61da-4db3-833c-bade6f7665e2": {
     "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30461227.mp3",
@@ -233,5 +233,10 @@
     "mp3": "https://creativemedia8-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30572974.mp3",
     "date": "2026-10-13T11:17:00.000Z",
     "resolvedAt": 1791914050362
+  },
+  "ContentItem-87b92d74-93c8-4327-98d6-4a5dd7d75b21": {
+    "mp3": "https://creativemedia9-rai-it.akamaized.net/podcastcdn/GRRegionali_mp3/GRR_Puglia_mp3/30579001.mp3",
+    "date": "2026-10-14T06:13:00.000Z",
+    "resolvedAt": 1791961286559
   }
 }
